@@ -1,0 +1,11 @@
+name: RPG
+authors:
+  - LorenzooG
+  - Eduard
+main: me.lorenzo.rpg.Main
+version: 1.0.0-SNAPSHOT
+depend:
+  - EduardAPI
+commands:
+  rpg:
+  class:
